@@ -2,13 +2,11 @@
 
 Acest repository conține lucrări de laboratoare axate pe explorarea conceptelor OOP în C++. Laboratoarele fac parte din cursul de Programare Orientată pe Obiect din cadrul Universității Tehnice a Moldovei, facultatea CIM, specialitatea Informatică aplicată.
 
-
-
-### Autor și Profesor
+## Autor și Profesor
 - Realizat de Voicu Maxim, IA-221, [@voicumax](https://www.instagram.com/voicumax/)
 - Verificat de Kulev Mihai, conf. univ., [@kulev-mihail](https://www.linkedin.com/in/mihail-kulev-17418319/?originalSubdomain=md)
 
-
+## Laboratoare
 #### Lab 1: Structura – mecanism de abstractizare
 
 În acest laborator se studiază abstractizarea, regulile de definire și utilizare a structurilor de date în C++.
