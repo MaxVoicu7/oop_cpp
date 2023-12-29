@@ -1,4 +1,3 @@
-
 # Laboratoare OOP în C++
 
 Acest repository conține lucrări de laboratoare axate pe explorarea conceptelor OOP în C++. Laboratoarele fac parte din cursul de Programare Orientată pe Obiect din cadrul Universității Tehnice a Moldovei, facultatea CIM, specialitatea Informatică aplicată.
