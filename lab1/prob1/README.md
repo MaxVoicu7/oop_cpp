@@ -6,7 +6,7 @@ caracteristici.
 ## Fișiere
 - monitor.h 
 
-   Header file responsabil pentru definirea structurile monitor și oferind prototipurile funcțiilor necesare pentru manipularea și interogarea acesteia.
+   Conține definirea structurii monitor și oferă prototipurile funcțiilor necesare pentru manipularea și interogarea acesteia.
 - monitor.cpp
 
    Conține implementarea funcțiilor definite în monitor.h
