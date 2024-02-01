@@ -11,13 +11,13 @@ Acest repository conține lucrări de laboratoare axate pe explorarea conceptelo
 
 În acest laborator se studiază abstractizarea, regulile de definire și utilizare a structurilor de date în C++.
 
-#### Lab 2: : Clase și obiecte. Constructori și destructor
+#### Lab 2: Clase și obiecte. Constructori și destructor
 
 În acest laborator se studiază principiile de definire și utilizare a constructorilor și destructorilor, studierea tipurilor de constructori.
 
 #### Lab 3: Supraîncărcarea operatorilor
 
-În acest laborator se studiază Supraîncărcarea operatorilor, sintaxa de definire a acestora, tipurile de operatori și forme de supraîncărcare.
+În acest laborator se studiază supraîncărcarea operatorilor, sintaxa de definire a acestora, tipurile de operatori și forme de supraîncărcare.
 
 #### Lab 4: Moştenirea şi compoziţia
 
